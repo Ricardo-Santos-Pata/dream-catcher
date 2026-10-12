@@ -2,8 +2,4 @@ logs
 *.log
 node_modules
 .env
-
 *.db
-Dockerfile
-README.md
-hint.md
